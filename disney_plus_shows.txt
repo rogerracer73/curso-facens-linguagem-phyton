@@ -1,0 +1,8 @@
+imdb_id|title|plot|type|rated|year|released_at|added_at|runtime|genre|director|writer|actors|language|imdb_score|metascore|imdb_votes
+TT1000001|The Lion King|A young lion prince flees his kingdom.|Movie|PG|1994|1994-06-15|2019-11-12|88|Animation|Roger Allers|Irene Mecchi|Matthew Broderick, Jeremy Irons|English, Zulu|8.5|88|950000
+TT1000002|The Lion King|Live action remake of the animated classic.|Movie|PG|2019|2019-07-19|2020-01-01|118|Adventure|Jon Favreau|Jeff Nathanson|Donald Glover, Beyoncé Knowles|English|6.9|55|220000
+TT1000003|The Mandalorian|A lone gunfighter makes his way through the outer reaches.|Series|TV-14|2019|2019-11-12|2019-11-12|40|Sci-Fi|Deborah Chow|Jon Favreau|Pedro Pascal, Carl Weathers|English, Spanish|8.7|N/A|380000
+TT1000004|Encore!|Nostalgic adults relive their youthful memories through high school musical productions.|Series|TV-PG|2019|2019-11-12|2019-11-12|44|Reality|Jason Cohen|Jason Cohen|Kristen Bell|English|N/A|N/A|N/A
+TT1000005||Missing title entry should be dropped.|Movie|PG|2000|2000-01-01|2020-01-01|100|Drama|Jane Doe|Jane Doe|Actor A|English|7.1|75|50000
+TT1000006|Planet Earth|Documentary about Earth.|Documentary|G|2006|2006-03-05|2020-05-01|550|Documentary|Alastair Fothergill|Alastair Fothergill|David Attenborough|English|9.4|99|150000
+TT1000007|Gravity Falls|Animated series mystery-comedy.|Series|TV-Y7|2012|2012-06-15|2019-11-12|23|Animation|Alex Hirsch|Alex Hirsch|Jason Ritter, Kristen Schaal|English |8,9|74|280000

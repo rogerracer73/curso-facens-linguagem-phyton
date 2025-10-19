@@ -1,0 +1,38 @@
+RELATÓRIO ANALÍTICO DISNEY+
+============================
+Quantidade de filmes avaliados: 2
+Quantidade de séries avaliadas: 3
+
+Média IMDB dos filmes: 7.70
+Média Metascore dos filmes: 71.50
+Média de votos IMDB dos filmes: 585000
+
+Idiomas mais utilizados:
+- ENGLISH: 5
+- ZULU: 1
+- SPANISH: 1
+
+Idiomas menos utilizados:
+- SPANISH: 1
+- ZULU: 1
+- ENGLISH: 5
+
+Atores mais frequentes:
+- JEREMYIRONS: 1
+- MATTHEWBRODERICK: 1
+- BEYONCÉKNOWLES: 1
+
+Atores menos frequentes:
+- BEYONCÉKNOWLES: 1
+- CARLWEATHERS: 1
+- DONALDGLOVER: 1
+
+Diretor com mais filmes: ROGERALLERS (1)
+Filme mais popular no IMDB: THELIONKING (Direção de ROGERALLERS) com nota 8.50
+Filme mais popular no Metascore: THELIONKING (Direção de ROGERALLERS) com nota 88.00
+Ano com mais lançamentos de filmes: 1994 (1)
+Pior série segundo IMDB: THEMANDALORIAN (nota 8.70)
+Pior série segundo Metascore: GRAVITYFALLS (nota 74.00)
+
+Filmes com múltiplos lançamentos (possíveis remakes):
+- THELIONKING: anos 1994, 2019

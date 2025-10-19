@@ -1,0 +1,14 @@
+RELATÓRIO DE LIMPEZA DO DATASET DISNEY+
+======================================
+Total de linhas processadas: 7
+Linhas válidas: 5
+
+Linhas removidas por motivo:
+- tipo_invalido: 1
+- titulo_ausente: 1
+
+Resumo por categoria:
+- Filmes válidos: 2
+- Séries válidas: 3
+
+Campos numéricos inválidos detectados: 0
